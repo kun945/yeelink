@@ -178,7 +178,7 @@ class YeeLinkClient:
     def __init__(self, api_key):
         self.device = device(api_key)
         self.sensor = sensor(api_key)
-        self.datapoint = sensor(api_key)
+        self.datapoint = datapoint(api_key)
         self.image = image(api_key)
         self.api_key = api_key
 
