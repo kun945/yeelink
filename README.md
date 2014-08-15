@@ -1,4 +1,4 @@
 yeelink
 =======
 
-Python client SDK for Micro Message Public Platform API.
+Python client SDK for YeeLink API.
